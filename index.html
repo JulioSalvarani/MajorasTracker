@@ -1,0 +1,36 @@
+<!DOCTYPE html> <!--O HTML É SEPARADO EM 2 PROCESSOS PRINCIPAIS, O head e o body  -->
+
+<html lang="en"> 
+
+<head> <!--ELEMENTOS QUE NÃO APARECEREM PRO USUÁRIO-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> <!--COMO ASSOCIA O CSS AO HTML é só escrever link-->
+    <link rel="icon" type="image/x-icon" href="fotos/icon.png">
+    <title>Majora's Tracker</title> <!--TÍTULO QUE APARECERÁ PARA A ABA DO NAVEGADOR-->
+</head>
+
+<body> <!--ELEMENTOS QUE APARECEREM PRO USUÁRIO-->
+    <header> <!--cabeçalho-->
+        <h1> The Legend of Zelda: Majora's Mask - Guia de Máscaras</h1> <!--h*n* significa o tipo de título, ele fecha na mesma linha normalmente-->
+        <div> <!--container genérico-->
+            <input type="text" id="input-busca" placeholder="Digite aqui o nome da máscara"> <!--input do usuário, com um hint text-->
+            <button onclick="buscarMascara()" id="botao-busca"> Buscar Máscara </button> <!--define o botão e o que acontecerá na propriedade pré definida e também o que está escrito nele-->
+        </div> 
+    </header>
+    <main> <!--conteúdo principal-->
+            <section class="card-container"> <!--lista, foi definida uma classe também, pra podermos repetir depois-->
+
+            </section> 
+    </main>
+    <footer class="footer"> <!--rodapé = informações de contato, endereço, etc-->
+        <ul class="footer-links"> <!--lista sem ordem especifica-->
+            <li> <!--list item-->
+                <a href="https://github.com/JulioSalvarani", target="_blank">Meu Github</a> <!--link e o nome dele, o target é onde vai abrir-->
+            </li>
+        </ul> 
+    </footer>
+    <script src="script.js"></script> <!--script source = linka com o javascript-->
+</body>
+
+</html> <!--TODO FINAL DE ALGO NO HTML TEM UMA "/" e o que ele é-->
