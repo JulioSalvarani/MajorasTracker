@@ -1,0 +1,170 @@
+[
+    {
+        "nome": "Deku Mask",
+        "tipo": "Progressão de História",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Deku_Mask_Artwork.png",
+        "descricao": "Permite transformar-se em um Deku Scrub. Obtida do espírito do Deku Butler's Son."
+    },
+    {
+        "nome": "Goron Mask",
+        "tipo": "Progressão de História",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Goron_Mask_Artwork.png",
+        "descricao": "Permite transformar-se em um Goron. Obtida do espírito do líder Goron Darmani."
+    },
+    {
+        "nome": "Zora Mask",
+        "tipo": "Progressão de História",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Zora_Mask_Render.png",
+        "descricao": "Permite transformar-se em um Zora. Obtida do espírito do guitarrista Zora Mikau."
+    },
+    {
+        "nome": "Fierce Deity's Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Difícil",
+        "foto": "./fotos/MM3D_Fierce_Deitys_Mask_Render.png",
+        "descricao": "Poderosa máscara que transforma Link em uma forma adulta poderosa. Obtida trocando todas as Máscaras de Alma."
+    },
+    {
+        "nome": "Mask of Scents",
+        "tipo": "Opcional",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Mask_of_Scents.png",
+        "descricao": "Permite detectar cheiros especiais e encontrar fungos misteriosos. Obtida da Senhora de Odor."
+    },
+    {
+        "nome": "Bunny Hood",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Bunny_Hood.png",
+        "descricao": "Aumenta a velocidade de corrida de Link. Obtida trocando com o dono da Loja de Curiosidades."
+    },
+    {
+        "nome": "Keaton Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Keaton_Mask.png",
+        "descricao": "Atrai Keatons para conversar e obter informações. Obtida do filho do dono da loja de bombas."
+    },
+    {
+        "nome": "Postman's Hat",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Postmans_Hat.png",
+        "descricao": "Permite participar da corrida contra o Carteiro. Obtida do Carteiro na Torre do Relógio."
+    },
+    {
+        "nome": "All-Night Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_All-Night_Mask_Render.png",
+        "descricao": "Permite ficar acordado durante as apresentações. Obtida do dono da Sala de Leitura."
+    },
+    {
+        "nome": "Blast Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Blast_Mask.png",
+        "descricao": "Funciona como uma bomba que causa dano ao usuário. Obtida do homem ferido em Termina."
+    },
+    {
+        "nome": "Stone Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Stone_Mask.png",
+        "descricao": "Torna Link quase invisível para inimigos. Encontrada em uma caverna na Estrada de Gerudo."
+    },
+    {
+        "nome": "Great Fairy Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Great_Fairy_Mask.png",
+        "descricao": "Atrai fragmentos de Fadas. Obtida da Grande Fada na Torre do Relógio."
+    },
+    {
+        "nome": "Don Gero's Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Don_Geros_Mask.png",
+        "descricao": "Permite comunicar-se com os sapos da Montanha da Morte. Obtida do sapo congelado."
+    },
+    {
+        "nome": "Romani's Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Romanis_Mask.png",
+        "descricao": "Garante entrada no Celeiro de Lon Lon. Obtida de Romani após proteger o celeiro."
+    },
+    {
+        "nome": "Troupe Leader's Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Troupe_Leaders_Mask_Model.png",
+        "descricao": "Permite entrar no vagão do Líder do Circo. Obtida de Madame Aroma."
+    },
+    {
+        "nome": "Kafei's Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Kafeis_Mask.png",
+        "descricao": "Permite investigar o paradeiro de Kafei. Obtida da Sra. Anju na Pousada."
+    },
+    {
+        "nome": "Couple's Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Difícil",
+        "foto": "./fotos/MM3D_Couples_Mask.png",
+        "descricao": "Símbolo do amor entre Anju e Kafei. Obtida após completar a quest do casal."
+    },
+    {
+        "nome": "Mask of Truth",
+        "tipo": "Opcional",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Mask_of_Truth.png",
+        "descricao": "Permite ler mentes e falar com pedras Gossip. Obtida trocando todos os emblemas de ouro."
+    },
+    {
+        "nome": "Giant's Mask",
+        "tipo": "Progressão de História",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Giants_Mask.png",
+        "descricao": "Permite crescer a um tamanho gigante durante a luta contra Twinmold."
+    },
+    {
+        "nome": "Garo's Mask",
+        "tipo": "Progressão de História",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM_GaroMask.png",
+        "descricao": "Atrai mestres Garo para batalhas. Obtida do fantasma Garo na planície."
+    },
+    {
+        "nome": "Captain's Hat",
+        "tipo": "Progressão de História",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Captain's_Hat.png",
+        "descricao": "Controla os soldados Ikana. Obtida do Capitão Keeta na Casa de Bailado Ikana."
+    },
+    {
+        "nome": "Kamaro's Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Kamaros_Mask.png",
+        "descricao": "Permite realizar uma dança especial. Obtida do fantasma do dançarino Kamaro."
+    },
+    {
+        "nome": "Gibdo Mask",
+        "tipo": "Progressão de História",
+        "dificuldade": "Médio",
+        "foto": "./fotos/MM3D_Gibdo_Mask.png",
+        "descricao": "Permite comunicar-se com Gibdos e pessoas com bandagens. Obtida da filha do Carpinteiro."
+    },
+    {
+        "nome": "Bremen Mask",
+        "tipo": "Opcional",
+        "dificuldade": "Fácil",
+        "foto": "./fotos/MM3D_Bremen_Mask.png",
+        "descricao": "Permite liderar animais e transformar pintinhos em galos adultos. Obtida do homem pássaro em Termina."
+    }
+]
